@@ -6,10 +6,10 @@ import html_img from '../assets/html.png';
 import css_img from '../assets/css.png';
 import js_img from '../assets/js.png';
 import react_img from '../assets/react.png';
-import node_img from '../assets/node.png';
-import express_img from '../assets/express.png';
 import postgresql_img from '../assets/postgresql.png';
 import java_img from '../assets/java.png';
+import tailwind_img from '../assets/tailwindcss.png';
+import spring_img from '../assets/springboot.png';
 
 export const modalData = [
   {
@@ -22,14 +22,14 @@ export const modalData = [
           { name: "HTML", image: html_img },
           { name: "CSS", image: css_img },
           { name: "JS", image: js_img },
-          { name: "React", image: react_img }
+          { name: "React JS", image: react_img },
+          { name: "Tailwind CSS", image: tailwind_img}
         ],
       },
       {
         heading: "BACKEND",
         items: [
-          { name: "Node.js", image: node_img },
-          { name: "Express.js", image: express_img }
+          { name: "Spring Boot", image: spring_img }
         ],
       },
       {

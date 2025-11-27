@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import './About.css';
-import user_img from '../../data/assets/user.jpg';
+import user_img from '../../data/assets/user.png';
 import theme from '../../data/assets/theme_pattern.svg';
 
 import { aboutCards } from '../../data/about/aboutData.js';

@@ -8,35 +8,34 @@ import project6 from '../assets/project6.jpg';
 export const projectsImage = [
   {
     id: 1,
-    name: 'AI Career Consultant',
+    name: 'AI Interview Preparation Platform',
     image: project1,
-    description: 'Generates a comprehensive career report by conducting a psychometric assessment, sending user responses to OpenAI’s LLM API, and returning personalized career suggestions tailored to individual strengths and preferences.',
-    github: 'https://github.com/IamMadhan24/Ai-Career-Consultant',
-    // demo: 'https://project1-demo.com'
+    description: 'A full-stack AI interview preparation platform built using React, Spring Boot, and Groq LLM, offering automatic question generation, answer assistance and evaluation with scoring, resume analysis, and an interactive chatbot. The system features a responsive dashboard UI, integrates AI APIs, and delivers fast, real-time interview guidance.',
+    github: 'https://github.com/IamMadhan24/Ai-Interview-Guide',
+    demo: 'https://ai-interview-guide-madhan.vercel.app/'
   },
   {
     id: 2,
-    name: 'Weather App',
+    name: 'Secure Notes Manager with JWT Authentication',
     image: project2,
-    description: 'A responsive weather app using React.js and OpenWeatherMap API that shows real-time weather by city, including temperature, humidity, wind speed, and weather icons in a clean, mobile-friendly interface.',
-    github: 'https://github.com/IamMadhan24/Weather-App',
-    demo: 'https://weather-app-maddy.vercel.app/'
+    description: 'A secure note-management application built with React, Spring Boot, and PostgreSQL that enables users to create, update, and manage personal notes with full CRUD operations. The system implements JWT authentication, protected routes, and user-specific data access to ensure privacy and security.',
+    github: 'https://github.com/IamMadhan24/Secure-Notes-Manager',
+    demo: 'https://notevue-app-madhan.vercel.app/'
   },
   {
     id: 3,
-    name: 'Secure Notes Manager',
+    name: 'AI Career Recommendation System (Academic Project)',
     image: project3,
-    description: 'Enables users to create personal accounts and securely manage their notes, offering full functionality to create, update, or delete entries while keeping user data private and organized.',
-    github: 'https://github.com/IamMadhan24/Secure-Notes-Manager',
-    demo: 'https://secure-notes-manager.onrender.com/'
+    description: 'Generates a comprehensive career report by conducting a psychometric assessment, sending user responses to OpenAI\'s LLM API, and returning personalized career suggestions tailored to individual strengths and preferences.',
+    github: 'https://github.com/IamMadhan24/Ai-Career-Consultant'
   },
   {
     id: 4,
-    name: 'Photo Gallery',
+    name: 'Weather App',
     image: project4,
-    description: 'A responsive, view-only photo gallery featuring a Pinterest-style layout, allowing users to browse images easily, enjoy an organized visual experience, and explore photos seamlessly across devices.',
-    github: 'https://github.com/IamMadhan24/Photo-Gallery',
-    demo: 'https://iammadhan24.github.io/Photo-Gallery/'
+    description: 'A responsive weather app using React.js and OpenWeatherMap API that shows real-time weather by city, including temperature, humidity, wind speed, and weather icons in a clean, mobile-friendly interface.',
+    github: 'https://github.com/IamMadhan24/Weather-App',
+    demo: 'https://weather-app-maddy.vercel.app/'
   },
   {
     id: 5,
@@ -48,10 +47,10 @@ export const projectsImage = [
   },
   {
     id: 6,
-    name: 'To-Do List',
+    name: 'Photo Gallery',
     image: project6,
-    description: 'A straightforward CRUD-based application that allows users to create, read, update, and delete tasks efficiently, helping them organize daily activities and stay on top of their to-do lists.',
-    github: 'https://github.com/IamMadhan24/To-Do-List-App',
-    demo: 'https://to-do-list-app-lej3.onrender.com/'
+    description: 'A responsive, view-only photo gallery featuring a Pinterest-style layout, allowing users to browse images easily, enjoy an organized visual experience, and explore photos seamlessly across devices.',
+    github: 'https://github.com/IamMadhan24/Photo-Gallery',
+    demo: 'https://iammadhan24.github.io/Photo-Gallery/'
   }
 ];

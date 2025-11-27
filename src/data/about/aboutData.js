@@ -7,7 +7,7 @@ export const aboutCards = [
     id: 1,
     logo: skill,
     title: 'SKILLS',
-    description: 'React.js, Node.js, Express.js, PostgreSQL'
+    description: 'React.js, Spring Boot, PostgreSQL, Java'
   },
   {
     id: 2,
