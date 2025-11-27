@@ -28,7 +28,7 @@ export const projectsImage = [
     image: project3,
     description: 'Generates a comprehensive career report by conducting a psychometric assessment, sending user responses to OpenAI\'s LLM API, and returning personalized career suggestions tailored to individual strengths and preferences.',
     github: 'https://github.com/IamMadhan24/Ai-Career-Consultant',
-    demo: 'ai-career-consultant-beta.vercel.app'
+    demo: 'https://ai-career-consultant-beta.vercel.app'
   },
   {
     id: 4,
