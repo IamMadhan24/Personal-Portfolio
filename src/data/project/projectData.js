@@ -24,34 +24,34 @@ export const projectsImage = [
   },
   {
     id: 3,
-    name: 'AI Career Recommendation System (Academic Project)',
+    name: 'Dictionary Web Application',
     image: project3,
+    description: 'A modern React-based dictionary application featuring real-time word search, pronunciation audio, definitions, synonyms/antonyms, and search auto-suggestions. Includes local-storage powered bookmarks, alert notifications, and persistent dark/light theme for a personalized user experience.',
+    github: 'https://github.com/IamMadhan24/Dictionary-App',
+    demo: 'https://dictionary-app-madhan.vercel.app/'
+  },
+  {
+    id: 4,
+    name: 'AI Career Recommendation System (Academic Project)',
+    image: project4,
     description: 'Generates a comprehensive career report by conducting a psychometric assessment, sending user responses to OpenAI\'s LLM API, and returning personalized career suggestions tailored to individual strengths and preferences.',
     github: 'https://github.com/IamMadhan24/Ai-Career-Consultant',
     demo: 'https://ai-career-consultant-beta.vercel.app'
   },
   {
-    id: 4,
+    id: 5,
     name: 'Weather App',
-    image: project4,
+    image: project5,
     description: 'A responsive weather app using React.js and OpenWeatherMap API that shows real-time weather by city, including temperature, humidity, wind speed, and weather icons in a clean, mobile-friendly interface.',
     github: 'https://github.com/IamMadhan24/Weather-App',
     demo: 'https://weather-app-maddy.vercel.app/'
   },
   {
-    id: 5,
+    id: 6,
     name: 'Personal Finance Tracker',
-    image: project5,
+    image: project6,
     description: 'Lets users log income and expenses with detailed descriptions, categorize transactions, and view their current financial balance in real time, making personal finance tracking simple and intuitive.',
     github: 'https://github.com/IamMadhan24/Personal-Finance-Tracker',
     demo: 'https://iammadhan24.github.io/Personal-Finance-Tracker/'
-  },
-  {
-    id: 6,
-    name: 'Photo Gallery',
-    image: project6,
-    description: 'A responsive, view-only photo gallery featuring a Pinterest-style layout, allowing users to browse images easily, enjoy an organized visual experience, and explore photos seamlessly across devices.',
-    github: 'https://github.com/IamMadhan24/Photo-Gallery',
-    demo: 'https://iammadhan24.github.io/Photo-Gallery/'
   }
 ];
